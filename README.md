@@ -1,21 +1,20 @@
 # Hi 👋, I'm Reeve Reed
 
-### 一个正在把 bug 炼成 feature 的人
+### Someone who is currently turning bugs into features
 
-- 🔭 I'm currently working on **学习 Linux / Python / Bash / 运维自动化中
-偶尔写代码，偶尔被代码写**
+- 🔭 I'm currently working on **learning Linux, Python, Bash, and operations automation. Sometimes I write code, and sometimes the code writes me.**
 
-- 🌱 I'm currently learning **Linux 运维、Python 自动化、Bash 脚本和一点点让 AI 听懂人话的技巧**
+- 🌱 I'm currently learning **Linux operations, Python automation, Bash scripting, and a little bit of making AI understand human language.**
 
-- 👯 I'm looking to collaborate on **Linux 运维工具、自动化脚本、AI Agent、开源小项目，最好是能一边写一边骂日志的那种**
+- 👯 I'm looking to collaborate on **Linux operations tools, automation scripts, AI Agents, and small open-source projects, preferably the kind where we can write code while yelling at logs.**
 
-- 🤝 I'm looking for help with **系统设计、项目架构、代码规范，以及如何让“能跑”进化成“跑得还挺专业”**
+- 🤝 I'm looking for help with **system design, project architecture, code standards, and how to evolve “it works” into “it actually looks professional.”**
 
-- 💬 Ask me about **Python、Bash、Linux 基础运维、日志分析、Git，以及为什么一个小脚本最后会长成一个项目**
+- 💬 Ask me about **Python, Bash, Linux basics, log analysis, Git, and why a tiny script somehow grows into a full project.**
 
 - 📫 How to reach me **mo0nster@163.com**
 
-- ⚡ Fun fact **我写代码的日常是，先让它跑起来，然后再假装这一切都在计划之中**
+- ⚡ Fun fact **My coding routine is: first make it run, then pretend it was all part of the plan.**
 
 - 👨‍💻 All of my projects are available at **[https://www.maptop.top/](https://www.maptop.top/)**
 
